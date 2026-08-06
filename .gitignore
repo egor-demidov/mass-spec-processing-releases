@@ -1,0 +1,7 @@
+*
+
+!.gitignore
+!*.json
+!*.md
+
+!release-notes/
